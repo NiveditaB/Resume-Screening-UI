@@ -1,4 +1,4 @@
-Resume Screening Application | HuggingFace UI
+##Resume Screening Application | HuggingFace UI
 
 A smart Resume Screening Web Application that uses TF-IDF, Regex-based NLP, and a lightweight LLM-based summarization pipeline to analyze resumes, extract skills, and compute the match score between a candidate and job description.
 The project includes a fully interactive HuggingFace Spaces UI for seamless resume screening.
